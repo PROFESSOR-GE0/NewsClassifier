@@ -1,4 +1,4 @@
-# News Headline Classification (Jupyter Notebook)
+# News Headline Classification
 
 ## Overview
 This project uses Natural Language Processing (NLP) techniques and a Logistic Regression model to classify news headlines into one of four categories:
