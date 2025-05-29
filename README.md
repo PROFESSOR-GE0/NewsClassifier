@@ -35,10 +35,12 @@ This project uses Natural Language Processing (NLP) techniques and a Logistic Re
    
 ## How to Run the Code
 - Launch Jupyter Notebook:
-  -jupyter notebook
+  - jupyter notebook
 - Open NewsClassifier.ipynb
 - Run all cells from top to bottom to:
-  -Load and preprocess the dataset
-  -Train the Logistic Regression model
-  -Evaluate accuracy, precision, recall, F1-score
-  -Test with sample input
+  - Load and preprocess the dataset
+  - Train the Logistic Regression model
+  - Evaluate accuracy, precision, recall, F1-score
+  - Test with sample input
+
+
